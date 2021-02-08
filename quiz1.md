@@ -24,7 +24,7 @@ if the form is singular, convert to plural; if the form is plural, convert to si
 Part 3: Latin composition
 Translate (only) the italicized verb forms into Latin. E.g., if you were given “Hercules saw Deianira,” you could translate saw with vidit.
 
-Centaurs are being killed by Hercules. (Use the present tense)  - interficit
+Centaurs are being killed by Hercules. (Use the present tense)  - interficiuntur
 
 Centaurs were being killed by Hercules. (Use the perfect tense) - interfectus est
 

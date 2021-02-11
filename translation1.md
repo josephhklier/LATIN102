@@ -37,5 +37,5 @@ C. Translation
 Hercules with hospitality towards Dexamenum had her and her daughter Deianiram to his kingdom, wishing her to be his wife.
 When Hercules was away, the creature Euytion attacked his wife Deianiram.
 Because of the fear of this creature, he promised he would get her back.
-In certain time, 
+In time, the creature came with his brothers to the wedding. 
 Deianiram heared Hercules ruined and killed the creature.

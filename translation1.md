@@ -5,25 +5,25 @@
 A. Grammatical Analysis  ❌ *Please revise this as we did in class using `>` to mark explicitly the level of subordination*
 
 1. Hercules cum in hospitium ad Dexamenum regem *uenisset* 
-eiusque filiam Deianiram *deuirginasset*, 
-  *volebat* eam 
-uxorem *ducere*. 
+> eiusque filiam Deianiram *deuirginasset*, 
+>> *volebat* eam 
+>>> uxorem *ducere*. 
 
 2. cum Hercules *abesset*, 
-    centaurus Eurytion *petit* 
-  Deianiram *uxorem*. 
+> centaurus Eurytion *petit* 
+>> Deianiram *uxorem*. 
 
 3. quia pater eius centaurum *timebat*, 
-    pollicitus est 
-   se *daturum*.
+> pollicitus est 
+>> se *daturum*.
 
 4. Tempore certo, 
-    *venit* centaurus 
-   cum fratribus ad nuptias. 
+> *venit* centaurus 
+>> cum fratribus ad nuptias. 
 
 5. Hercules *interuenit* 
-    et centaurum *interfecit*, 
-  Deianiram *abduxit*.
+> et centaurum *interfecit*, 
+>> Deianiram *abduxit*.
 
 B. Grammatical Questions
 

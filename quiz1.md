@@ -4,11 +4,11 @@ Part 1: recognizing nouns
 Identify the gender, case and number, and gender of each noun. If there are multiple possible forms, list all options. Translate prepositional phrases.
 
 1. filiam - Feminine, Accusative, Singular
-1. in coniugium - Neuter, Nominative Accusative, Singular -- the marriage ❌ *Translate prepositional **phrases**.* in marriage
+1. in coniugium - Neuter, Nominative Accusative, Singular -- in marriage
 1. animo - Masculine, Dative or Ablative Singular
 1. uirgine - Masculine, Nominative, Singular ??? ❌ ?
 1. parentes - Masculine, Nominative or Accusative, Plural
-1. ad uxorem - Feminine, Accusative, Feminine - the wife ❌ *Translate prepositional **phrases**.* towards the wife
+1. ad uxorem - Feminine, Accusative, Feminine - towards the wife
 
 
 Part 2: recognizing verbs
@@ -38,5 +38,5 @@ At the moment when Deianira saw Hercules’ garment burst into flames, she reali
 
 Hercules led Deianira in marriage (i.e., he married her). - audduxit
 
-Hercules repeatedly asked Eurytus for permission to marry Iole. - rogavit ❌ rogabat
+Hercules repeatedly asked Eurytus for permission to marry Iole. - rogabat
 

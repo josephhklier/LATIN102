@@ -6,7 +6,7 @@ Identify the gender, case and number, and gender of each noun. If there are mult
 1. filiam - Feminine, Accusative, Singular
 1. in coniugium - Neuter, Nominative Accusative, Singular -- in marriage
 1. animo - Masculine, Dative or Ablative Singular
-1. uirgine - Masculine, Nominative, Singular ??? ❌ ?
+1. uirgine - Masculine, Nominative, Singular ??? ❌ Ablative, Feminine. 
 1. parentes - Masculine, Nominative or Accusative, Plural
 1. ad uxorem - Feminine, Accusative, Feminine - towards the wife
 
@@ -16,7 +16,7 @@ For each of the following verbs, identify the tense, voice, mood, person, and nu
 if the form is singular, convert to plural; if the form is plural, convert to singular
 
 1. petivisset - Pluperfect, Active, subjunctive, 3rd person, singular -- petivissent
-1. necauit - Perfect, Active, Indicative, 3rd person, singular -- necauerent ❌ *Translate prepositional **phrases**.* ?
+1. necauit - Perfect, Active, Indicative, 3rd person, singular -- necauerent ❌ *Translate prepositional **phrases**.* to kill
 1. necari - Infinitve, present, passive 
 1. rogaretur - Imperfect, passive, subjunctive, 3rd person, singular, -- rogarentur
 1. coepit - Perfect, active, indicative, 3rd person, singular -- coeperunt 
@@ -28,11 +28,11 @@ Translate (only) the italicized verb forms into Latin. E.g., if you were given �
 
 Centaurs are being killed by Hercules. (Use the present tense)  - interficiuntur
 
-Centaurs were being killed by Hercules. (Use the perfect tense) - interfectus est ❌ interficiebat
+Centaurs were being killed by Hercules. (Use the perfect tense) - interfectus est ❌ interficiebantur
 
-Centaurs were killed by Hercules. (Use the perfect tense) - interfecit ❌ interfectus est
+Centaurs were killed by Hercules. (Use the perfect tense) - interfecit ❌ 	interfecti sunt
 
-When Hercules killed the Centaurs, he carried off Deianira. (Emphasize the circumstance, not the timing, of what Hercules did.) - interfecit ❌ interficitur
+When Hercules killed the Centaurs, he carried off Deianira. (Emphasize the circumstance, not the timing, of what Hercules did.) - interfecit ❌ interficeret. 
 
 At the moment when Deianira saw Hercules’ garment burst into flames, she realized the Centaur had lied to her. - vidit
 

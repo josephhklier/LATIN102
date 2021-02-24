@@ -27,13 +27,13 @@ A. Grammatical Analysis  ❌ *Please revise this as we did in class using `>` to
 
 B. Grammatical Questions
 
-1. Dexamenum, Dexameni, F ❌
-  Dexamenum - Nominative singular ❌
-2. Deianira, Deianiram, F ❌
+1. Dexamenum, Dexameni, F ❌ Dexamenus, Dexameni (m)
+  Dexamenum - Nominative singular ❌ Dexamnenus - Nominative Singular
+2. Deianira, Deianiram, F ❌ 
   Deianiram - Genitive, singular ❌
-3. abesset - imperfect, active, subjunctive - to say be "may be away from" ❌
-4. uenisset - pluperfect, active, subjunctive - to say "came" ❌
-5. Nominative, singular, masculine, 3rd particible  ❌
+3. abesset - imperfect, active, subjunctive - to say be "may be away from" ❌ to show possibility of a incompleted action
+4. uenisset - pluperfect, active, subjunctive - to say "came" ❌ to show it was a completed action in the past
+5. Nominative, singular, masculine, 3rd particible  ❌ perfect, indicative, passive 3rd particible.
 6. Ablative singular, to show agreement with time 👌 *Yes, time **when** an event happened (as opposed to **duration** of time expressed with the accusative).*
 
 C. Translation

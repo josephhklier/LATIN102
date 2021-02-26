@@ -1,3 +1,5 @@
+**Needs revisions**
+
 Background story
 (Based on chapter 35 of Hyginus)
 
@@ -6,12 +8,12 @@ Heracles travelled to the city of Oechalia in Aetolia, and asked the king, Euryt
 Instructions
 Using the story above as inspiration, compose a paragraph of Latin according to the instructions below. (DO NOT DIRECTLY TRANSLATE THE PARAGRAPH ABOVE.)
 
-Cum Hercules Oechalia perveniiat, is coniugium lole rogavit. 
+Cum Hercules Oechalia perveniiat❌, is coniugium❌ lole rogavit. 
 
-lole's pater Eurytes nolit, Hercules Oechalia cepit.
+lole's❌ pater Eurytes nolit❌, Hercules Oechalia❌ cepit.
 
-Hercules dicere loles' parentes interficiat.
+Hercules dicere❌ loles'❌ parentes interficiat❌.
 
-lole passus est parentes interfecit. 
+lole passus❌ est parentes interfecit.❌ 
 
-Cum is omnis interficiat, is ad lole Deianira misit. 
+Cum is omnis interficiat❌, is ad lole Deianira❌ misit. 

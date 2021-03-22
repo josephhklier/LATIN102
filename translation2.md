@@ -85,4 +85,14 @@ Cum moriar
 
 
 
+C. Translate 
+
+Deianira, the wife of Hercules was not able to cross the great river, 
+which name was Evenus, and asked the centaur Nessus, who was the son of 
+Ixion and Nephele, for help. This man wanted to injure, after having lifted
+Deianira across the river himself. To this place, when Hercules had intervened and
+when Deianira urged for his protection, he pierced Nessus with his arrows. The
+man, as he was dying, when he knew that the arrows of the of the Lernean Hydra, which 
+were mostened with posinous liquid, had great strength, gave his blood, which had been taken
+out, to Deianira and said that it was a love poiton. 
 

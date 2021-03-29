@@ -100,9 +100,9 @@ Hercules stole a tripod from the temple at Delphi. Apollo refused to give Hercul
 Because Hercules stole a tripod from the temple at Delphi, Apollo refused to give Hercules an oracle.  ❌
 quod
 Hercules
-Accusative 
+Dative
 
-Hercules stole a tripod from the temple at Delphi, who Apollo refused to give an oracle. 
+Hercules, who Apollo refused to give an oracle, stole a tripod from the temple at Delphi. 
 
 Hercules killed his own wife Megara. Juno drove threw Hercules into a fit of madness. 
 Becuase Juno threw Hercules into a fit of madness, Hercules killed his own wife Megara. ❌
@@ -110,4 +110,4 @@ quod
 Hercules 
 Accusative
 
-Hercules killed his own wife Megara, who Juno drove threw into a fit of madness. 
+Hercules, who Juno drove threw into a fit of madness killed his own wife Megara. 

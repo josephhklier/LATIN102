@@ -7,22 +7,22 @@ Amitto
 
 third plural present indicative active - amittunt - they are losing. 
 third plural present subjunctive active - 	amittant 
-third plural imperfect indicative active - amittebant - they are gonna lose. ❌
+third plural imperfect indicative active - amittebant - they lost. ❌ 
 present infinitive active - amittere
 third plural imperfect subjunctive active - amitterent
 third plural perfect indicative active - amiserunt - they lost. 
-perfect infinitive passive - amitti ❌
+perfect infinitive passive - amitti ❌ amissus esse
 third plural pluperfect subjunctive active - amisissent
 
 Contendi 
 
 third plural present indicative active - contendunt - they are exerting.
 third plural present subjunctive active - 	contendant - 
-third plural imperfect indicative active - 	contendebant - they are gonna exert.❌
+third plural imperfect indicative active - 	contendebant - they exerted.❌
 present infinitive active - contendere
 third plural imperfect subjunctive active - contenderent
 third plural perfect indicative active - 	contendtenderunt - they exerted
-perfect infinitive passive - 	contendi❌
+perfect infinitive passive - 	contendi❌ contentendum esse
 third plural pluperfect subjunctive active - contendtendissent
 
 
@@ -30,11 +30,11 @@ Polliceor
 
 third plural present indicative passive - pollicentur - they are promising. 
 third plural present subjunctive passive - 	polliceantur
-third plural imperfect indicative passive - pollicebantur - they have been promising. ❌
-present infinitive passive - 	pollicere ❌
+third plural imperfect indicative passive - pollicebantur - they promised. ❌
+present infinitive passive - 	pollicere ❌ polliceri
 third plural imperfect subjunctive passive - 	pollicerentur
 third plural perfect indicative passive - 	polliciti sunt - they have promised.
-perfect active passive - did you mean infinitive - polliceri ❌
+perfect active passive - did you mean infinitive - polliceri ❌ pollicitum esse
 third plural pluperfect subjunctive passive - polliciti essent
 
 
@@ -44,14 +44,18 @@ qui
 Brothers
 Nominative - subject of the clause. 
 
+The brothers, who Eurytion came to the wedding with, were violent centaurs. 
+
 Dexamenus was afraid of Eurytion. Deanira was promised in marriage to Eurytion.
 Dexamus was afraid of Eurytion, who was promised in marriage with Deanira. ❌
 qui
 Eurytion
-Nominative - subject of the clause.
+Dative 
+
+Dexamus was afraid of Eurytion, to whom was promised in marriage with Deanira.
 
 Eurytion expected to marry Deianira. Eurytion’s brothers were centaurs.
-Eurytion who was expected to marry Deianira, had brothers who were centaurs. ❌
+Eurytion, whose brothers were centaurs, was expected to marry Deianira. ❌
 cuius
 Eurytion
 Genitive - association with Eurytion
@@ -60,13 +64,17 @@ Nessus tried to rape Deianira. Hercules killed Nessus.
 Because Nessus tried to raoe Deianira, Hercules killed Nessus. ❌
 quod
 Nessus
-Nominative - causation, casual relation
+Accusative
+
+Nessus tried to rape Deianira, who Hercules killed.
 
 Nessus gave Deianira a vial of blood. Hercules was poisoned by the blood.
 Hercules was poisoned by the vial of blood, which was given to Deinira by Nessus. ❌
 quem
 vial of blood
 accusative - reciever of the action
+
+Nessus gave Deianira a vial of blood, which Hercules was poisoned by. 
 
 In Egypt, Hercules killed the priest Busiris. Busiris regularly sacrificed foreigners.
 In Egypt, Hercules killed the priest Busiris, who regularly sacrificed foreingers. 
@@ -80,6 +88,8 @@ quem
 eagle
 accusative - reciever of actoin
 
+Promestheus heart was devoured by an eagle, which Hercules shot dead with his arrows. 
+
 Lycus tried to kill Megara and her sons Therimachus and Ophites. Lycus was killed by Hercules.
 Lycus, who was killed by Hercules, tried to kill Megara and her sons Thermiachis and Ophite.
 qui
@@ -90,12 +100,14 @@ Hercules stole a tripod from the temple at Delphi. Apollo refused to give Hercul
 Because Hercules stole a tripod from the temple at Delphi, Apollo refused to give Hercules an oracle.  ❌
 quod
 Hercules
-Nominative - causation, casual relation
+Accusative 
+
+Hercules stole a tripod from the temple at Delphi, who Apollo refused to give an oracle. 
 
 Hercules killed his own wife Megara. Juno drove threw Hercules into a fit of madness. 
 Becuase Juno threw Hercules into a fit of madness, Hercules killed his own wife Megara. ❌
 quod
-Juno 
-Nominative - causation, casual relation
+Hercules 
+Accusative
 
-
+Hercules killed his own wife Megara, who Juno drove threw into a fit of madness. 

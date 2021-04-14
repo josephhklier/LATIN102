@@ -1,37 +1,57 @@
+**Needs revisions**
+
 Place each verbal idea (clause, indirect statement, participial expression) on a separate line, indented to show its level of subordination. 
 Italicize the verb of each unit by surrounding it with asterisks.
 
 1. 
 Deianira, uxor Herculis, flumen magnum
+
 > cui nomen Evenus erat
+
 non poterat transire
+
 et
+
 centaurum Nessum
+
 > qui filius Ixionis et Nubis erat
+
 auxilium rogavit
 
 2. 
-Hic Deianiram sublatam in flumine ipso uiolare uoluit. 
+Hic Deianiram sublatam in flumine ipso uiolare uoluit. ❌
 
 3.
 huc Hercules 
-> cum interuenisset
-et
+
+> cum interuenisset et
+
 > Deianira cum fidem eius implorasset,
+
 Nessum sagittis confixit.
 
 4. 
 ille 
+
 > moriens
+
 > cum sciret
+
 >> sagittas
+
 >>> Hydrae Lernaeae felle tinctas
+
 >> magnam vim habere
+
 sanguinem suum
+
 >> exceptum
+
 Deianirae  dedit 
+
 et
-> id philtrum esse dixit
+
+> id philtrum esse dixit ❌
 
 
 
@@ -43,7 +63,7 @@ B. Grammatical questions
 and how it functions in the relative clause. (I.e., why is cui in this case?)
 
 Flumen - Nominate, Neuter, Singular
-Cui - Dative : Describing the river as an indirect object
+Cui - Dative : Describing the river as an indirect object❌
 
 2. Identify the form of transire. Explain why you placed it in the clause you chose.
 
@@ -57,10 +77,10 @@ Accusative, F, Singular, perfect, passive
 
 4. Identify the form of sagittis. Why does Hyginus use this case?
 
-Accusative, F, Plural - Arrows are the direct object
+Accusative, F, Plural - Arrows are the direct object❌
 
 5. Identify the form of moriens.
-Infinitve present participle 
+Infinitve present participle  ❌
 
 6. Identify felle. Why does Hyginus use this case?
 
@@ -79,7 +99,7 @@ of a single word in Odyssey 11.424. In Greek, where participles function very di
 from English but similarly to Latin, that word is a present active participle. Suggest one 
 or more possible translations of Faulkner’s title into Latin.
 
-Cum moriar
+Cum moriar **Possible.  Could you do it with a participle?**
 
 
 
@@ -88,8 +108,8 @@ Cum moriar
 C. Translate 
 
 Deianira, the wife of Hercules was not able to cross the great river, 
-which name was Evenus, and asked the centaur Nessus, who was the son of 
-Ixion and Nephele, for help. This man wanted to injure, after having lifted
+which❓ name was Evenus, and asked the centaur Nessus, who was the son of 
+Ixion and Nephele, for help. This man wanted to injure ❓, after having lifted
 Deianira across the river himself. To this place, when Hercules had intervened and
 when Deianira urged for his protection, he pierced Nessus with his arrows. The
 man, as he was dying, when he knew that the arrows of the of the Lernean Hydra, which 

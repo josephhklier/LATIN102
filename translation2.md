@@ -1,4 +1,4 @@
-**Full credit**
+**Needs revisions**
 
 Place each verbal idea (clause, indirect statement, participial expression) on a separate line, indented to show its level of subordination. 
 Italicize the verb of each unit by surrounding it with asterisks.
@@ -20,10 +20,8 @@ auxilium rogavit
 
 2. 
 Hic Deianiram 
+> sublatam in flumine 
 
-> sublatam in flumine ipso
-
-violare voluit.
 
 3.
 huc Hercules 
@@ -69,7 +67,7 @@ B. Grammatical questions
 and how it functions in the relative clause. (I.e., why is cui in this case?)
 
 Flumen - Nominate, Neuter, Singular
-Cui - Dative : dative of the possessor
+Cui - Dative : Describing the river as an indirect object❌ the name of the river as Evenus
 
 2. Identify the form of transire. Explain why you placed it in the clause you chose.
 
@@ -83,10 +81,9 @@ Accusative, F, Singular, perfect, passive
 
 4. Identify the form of sagittis. Why does Hyginus use this case?
 
-Ablative, F, Plural - means
-
+Accusative, F, Plural - Arrows are the direct object❌ ablative with the arrows
 5. Identify the form of moriens.
-present active participle masculine nominative singular
+present active participle  ❌ 
 
 6. Identify felle. Why does Hyginus use this case?
 
@@ -114,12 +111,10 @@ C. Translate
 
 Deianira, the wife of Hercules was not able to cross the great river, 
 which's name was Evenus, and asked the centaur Nessus, who was the son of 
-Ixion and Nephele, for help. 
-
-When Deinira was carried in the river, he wanted to rape her.
-
-To this place, when Hercules had intervened and
+Ixion and Nephele, for help. This man was outraged, after having lifted
+Deianira across the river himself. To this place, when Hercules had intervened and
 when Deianira urged for his protection, he pierced Nessus with his arrows. The
 man, as he was dying, when he knew that the arrows of the of the Lernean Hydra, which 
-were mostened with posinous liquid, had great strength, gave his blood, which had been taken out, to Deianira and said that it was a love poiton. 
+were mostened with posinous liquid, had great strength, gave his blood, which had been taken
+out, to Deianira and said that it was a love poiton. 
 

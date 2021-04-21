@@ -20,7 +20,8 @@ auxilium rogavit
 
 2. 
 Hic Deianiram 
-> sublatam in flumine ipso uiolare uoluit. ❌
+> sublatam in flumine 
+ipso uiolare uoluit. ❌
 
 3.
 huc Hercules 
@@ -52,9 +53,7 @@ Deianirae  dedit
 
 et
 
-> id philtrum 
-
-esse dixit ❌
+> id philtrum esse dixit ❌
 
 
 

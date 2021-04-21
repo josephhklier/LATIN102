@@ -101,8 +101,7 @@ of a single word in Odyssey 11.424. In Greek, where participles function very di
 from English but similarly to Latin, that word is a present active participle. Suggest one 
 or more possible translations of Faulkner’s title into Latin.
 
-Cum moriar **Possible.  Could you do it with a participle?**
-
+Cum moriar 
 
 
 

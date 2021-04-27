@@ -1,3 +1,5 @@
+**Needs revisions**
+
 Dictionary skills, 1: noun-adjective pairs
 For each word in the following phrases, list the forms the dictionary entry gives you for the word:
 
@@ -8,15 +10,15 @@ for a two-ending adjective, masculine/feminine nominative singular, neuter nomin
 for a three-ending adjective, masculine, feminine and neuter nominative singular
 Noun-adjective pairs (in various cases):
 
-uno die : uno : unus/una/unum   .   die - dius, dii, M
+uno die : uno : unus/una/unum   .   die - dius, dii, M❌
 totum stercus : totus/tota/totum   .   stercus - stercus, stercoris, M
-ceruum ferocem : ceruum - cerus, ceri, F   .   ferocem - ferox/ferox/ferox
-tantam vim : tantus/tanta/tantum.  .   vis, virium, M
+ceruum ferocem : ceruum - cerus, ceri,❌ F   .   ferocem - ferox/ferox/ferox❌
+tantam vim : tantus/tanta/tantum.  .   vis, virium, M❌
 sagittas suas : sagitta, sagittae, F   .   suus/sua/suum
 cornibus aureis : cornus, cornus, F.     aureus/aurea/aureum
-carne humana : carnis, carnis, F.     humanus/humana/humanum
-draconem immanem : draco, draconis, M   .   immanus/immane/immanis
-mala aurea : malum, malae, M   .   aureus/aurea/aureum
+carne humana : carnis, carnis,❌ F.     humanus/humana/humanum
+draconem immanem : draco, draconis, M   .   immanus/immane/immanis❌
+mala aurea : malum, malae❌, M   .   aureus/aurea/aureum
 
 
 
@@ -27,14 +29,14 @@ there will be no perfect active form for a third prinicipal part), list a dash -
 
 transierat - eo, is, ire, ii
 afflabat - afflo, afflas, afflare, afflatum
-moriebatur - morior, moreris, mori, mortuus sum
-exinteravit - 
+moriebatur - morior, moreris❌, mori, mortuus sum
+exinteravit - ❌
 effugiebat - effugio, effugis, effugere, effugitum
 adduxit - adduco, adducis, adducere, adductum
-iaculabantur - 
+iaculabantur - ❌
 vescebantur - vescor, vesveris, vesci, -
 detraxit - detraho, detrahis, detraxi, detractum
-solitus erat - soleo, soles, solitusi, solitum
+solitus erat - soleo, soles, solitusi❌, solitum
 attulit - attulo, attulis, -, -, 
 
 
@@ -51,13 +53,13 @@ Eurystheo regi - Eurystheus, Eurysthei, M
 
 Compose a dictionary form for the proper adjectives in the following phrases:
  
-Leonem Nemeum - meus/mea/meum
-Hydram Lernaeam - 
+Leonem Nemeum - meus/mea/meum❌
+Hydram Lernaeam - ❌
 aprum Erymanthium - Erymanthius, Erymanthium, M
 aves Stymphalides - Stymphalidus, Stymphalidum, M
 Hippolyten Amazonam (NB: Hippolyten is a Greek name in a feminine accusative singular form, like Iolen in our earlier assignment.)
 
-amazona, amazonam, F
+amazona, amazonam, F❌
 
 
 Comparative and superlative forms
@@ -84,6 +86,6 @@ Hercules cleaned a greater part of the stables.
 Hercules cleaned the greatest part of the stables.
 
 
-
+❓❓
 
 

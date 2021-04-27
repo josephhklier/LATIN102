@@ -7,22 +7,22 @@ Amitto
 
 third plural present indicative active - amittunt - they are losing. 
 third plural present subjunctive active - 	amittant 
-third plural imperfect indicative active - amittebant - they lost. ❌ 
+third plural imperfect indicative active - amittebant - they lost.  
 present infinitive active - amittere
 third plural imperfect subjunctive active - amitterent
 third plural perfect indicative active - amiserunt - they lost. 
-perfect infinitive passive - amitti ❌ amissus esse
+perfect infinitive passive - amissus esse
 third plural pluperfect subjunctive active - amisissent
 
 Contendi 
 
 third plural present indicative active - contendunt - they are exerting.
 third plural present subjunctive active - 	contendant - 
-third plural imperfect indicative active - 	contendebant - they exerted.❌
+third plural imperfect indicative active - 	contendebant - they exerted.
 present infinitive active - contendere
 third plural imperfect subjunctive active - contenderent
 third plural perfect indicative active - 	contendtenderunt - they exerted
-perfect infinitive passive - 	contendi❌ contentendum esse
+perfect infinitive passive - 	contententum esse
 third plural pluperfect subjunctive active - contendtendissent
 
 
@@ -30,11 +30,11 @@ Polliceor
 
 third plural present indicative passive - pollicentur - they are promising. 
 third plural present subjunctive passive - 	polliceantur
-third plural imperfect indicative passive - pollicebantur - they promised. ❌
-present infinitive passive - 	pollicere ❌ polliceri
+third plural imperfect indicative passive - pollicebantur - they promised. 
+present infinitive passive -  polliceri
 third plural imperfect subjunctive passive - 	pollicerentur
 third plural perfect indicative passive - 	polliciti sunt - they have promised.
-perfect active passive - did you mean infinitive - polliceri ❌ pollicitum esse
+perfect active passive - did you mean infinitive -  pollicitum esse
 third plural pluperfect subjunctive passive - polliciti essent
 
 

@@ -10,10 +10,11 @@ What case is stercus, and why is it in that case?
 Identify the form of the adjective maiorem (gender, case, number, degree).
   Accusative, comparative, singular, masculine
 Explain the construction of the verbal unit flumine admisso.
-  ablative 
+  perfect passive participle, ablative
 What are the gender, number, case, and antecedent of qui?
+  Singular, Masculine, Nominative, Diomedem
 What Latin verb form has to be understood in the clause that runs from equorum to Dinus?
-
+  
 
 C. Literary commentary
 Choose two choices of syntax, word order, or diction that Hyginus makes in this passage that complement or 

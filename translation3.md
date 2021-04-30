@@ -42,7 +42,8 @@ What Latin verb form has to be understood in the clause that runs from equorum t
 C. Literary commentary
 Choose two choices of syntax, word order, or diction that Hyginus makes in this passage that complement or 
 enhance the meaning of the passage’s content. Discuss briefly s in 3-4 sentences. Italicize Latin words when citing them.
-  
+
+One of the ways that Hyginus complements the meaning of the passage is with the phrase "*qui carne humana vescebantur*" that expresses the idea of the horses eating human flesh as expressed "by/with human flesh they were fed" although vescor is depondent. This could have been intentional as carne is ablative. Another instance would be the use of "*maiorem partem Iove adiutore*" as it helps to clarify that although Hercules was supported by Iove, he was not helped for the whole time of the miserable task.
   
 
 

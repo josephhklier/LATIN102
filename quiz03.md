@@ -10,15 +10,15 @@ for a two-ending adjective, masculine/feminine nominative singular, neuter nomin
 for a three-ending adjective, masculine, feminine and neuter nominative singular
 Noun-adjective pairs (in various cases):
 
-uno die : uno : unus/una/unum   .   die - dius, dii, M❌  dies, diei
-totum stercus : totus/tota/totum   .   stercus - stercus, stercoris, M
-ceruum ferocem : ceruum - cerus, ceri,❌ F  cervus, cervi M .   ferox, ferocis M❌
-tantam vim : tantus/tanta/tantum.  .   vis, virium, M❌ vis, vis, f. 
-sagittas suas : sagitta, sagittae, F   .   suus/sua/suum 
-cornibus aureis : cornus, cornus, F.     aureus/aurea/aureum
-carne humana : carnis, carnis,❌ F. caro, carnis.     humanus/humana/humanum
-draconem immanem : draco, draconis, M   .   immanus/immane/immanis❌ immanis, immanes
-mala aurea : malum, malae❌, M malum, mali  .   aureus/aurea/aureum
+1. uno die : uno : unus/una/unum   .   die - dius, dii, M❌  dies, diei
+2. totum stercus : totus/tota/totum   .   stercus - stercus, stercoris, M
+3. ceruum ferocem : ceruum - cerus, ceri,❌ F  cervus, cervi M .   ferox, ferocis M❌
+4. tantam vim : tantus/tanta/tantum.  .   vis, virium, M❌ vis, vis, f. 
+5. sagittas suas : sagitta, sagittae, F   .   suus/sua/suum 
+6. cornibus aureis : cornus, cornus, F.     aureus/aurea/aureum
+7. carne humana : carnis, carnis,❌ F. caro, carnis.     humanus/humana/humanum
+8. draconem immanem : draco, draconis, M   .   immanus/immane/immanis❌ immanis, immanes
+9. mala aurea : malum, malae❌, M malum, mali  .   aureus/aurea/aureum
 
 
 

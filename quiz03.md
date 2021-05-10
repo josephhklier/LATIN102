@@ -10,15 +10,15 @@ for a two-ending adjective, masculine/feminine nominative singular, neuter nomin
 for a three-ending adjective, masculine, feminine and neuter nominative singular
 Noun-adjective pairs (in various cases):
 
-uno die : uno : unus/una/unum   .   die - dius, dii, M❌
+uno die : uno : unus/una/unum   .   die - dius, dii, M❌  dies, diei
 totum stercus : totus/tota/totum   .   stercus - stercus, stercoris, M
-ceruum ferocem : ceruum - cerus, ceri,❌ F   .   ferocem - ferox/ferox/ferox❌
-tantam vim : tantus/tanta/tantum.  .   vis, virium, M❌
-sagittas suas : sagitta, sagittae, F   .   suus/sua/suum
+ceruum ferocem : ceruum - cerus, ceri,❌ F  cervus, cervi M .   ferox, ferocis M❌
+tantam vim : tantus/tanta/tantum.  .   vis, virium, M❌ vis, vis, f. 
+sagittas suas : sagitta, sagittae, F   .   suus/sua/suum 
 cornibus aureis : cornus, cornus, F.     aureus/aurea/aureum
-carne humana : carnis, carnis,❌ F.     humanus/humana/humanum
-draconem immanem : draco, draconis, M   .   immanus/immane/immanis❌
-mala aurea : malum, malae❌, M   .   aureus/aurea/aureum
+carne humana : carnis, carnis,❌ F. caro, carnis.     humanus/humana/humanum
+draconem immanem : draco, draconis, M   .   immanus/immane/immanis❌ immanis, immanes
+mala aurea : malum, malae❌, M malum, mali  .   aureus/aurea/aureum
 
 
 
@@ -29,14 +29,14 @@ there will be no perfect active form for a third prinicipal part), list a dash -
 
 transierat - eo, is, ire, ii
 afflabat - afflo, afflas, afflare, afflatum
-moriebatur - morior, moreris❌, mori, mortuus sum
-exinteravit - ❌
+moriebatur - morior, moreris❌, mori, mortuus sum - morior, mori, mortuus, morium.
+exinteravit - ❌ exinteravit, exitero, exiterare, exiiteratus.
 effugiebat - effugio, effugis, effugere, effugitum
 adduxit - adduco, adducis, adducere, adductum
-iaculabantur - ❌
+iaculabantur - ❌ iaculor, iaculari, iaculatus, -.
 vescebantur - vescor, vesveris, vesci, -
 detraxit - detraho, detrahis, detraxi, detractum
-solitus erat - soleo, soles, solitusi❌, solitum
+solitus erat - soleo, soles, solitusi❌, solitum - soleo, solere, -, solitus.
 attulit - attulo, attulis, -, -, 
 
 
@@ -75,23 +75,23 @@ pars, partis (f.) “part”
 and the adjective magnus/a/um, “great, large,” with irregular comparative maior, and superlative maximus.
 
 The Hydra killed passers by with a great blowing of his poisonous breath.
-  cum amplo afflavit
+  afflatu magno
 The Hydra killed passers by with a greater blowing of his poisonous breath.
-  cum ampliori afflavit
+  afflatum maium
 The Hydra killed passers by with the greatest blowing of his poisonous breath.
-  cum 	amplissimo afflavit
+  afflatum maximum
 The victims died in great torment.
-  in amplo 	cruciatu
+  cruciatum magnum
 The victims died in greater torment.
- in ampliori cruciatu
+ cruciatum maium
 The victims died in the greatest torment.
- in amplissimo cruciatu
+ cruciatum maximum
 Hercules cleaned a great part of the stables.
- amplo parte
+ partem magnum
 Hercules cleaned a greater part of the stables.
- ampliori parte
+ apartem maium
 Hercules cleaned the greatest part of the stables.
- amplissimo parte
+ partem maximum
 
 ❓❓
 

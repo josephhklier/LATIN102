@@ -97,7 +97,7 @@ Lycus
 Nominative - subject of clause
 
 Hercules stole a tripod from the temple at Delphi. Apollo refused to give Hercules an oracle.
-Because Hercules stole a tripod from the temple at Delphi, Apollo refused to give Hercules an oracle.  ❌
+Because Hercules stole a tripod from the temple at Delphi, Apollo refused to give Hercules an oracle.  
 quod
 Hercules
 Dative
@@ -105,7 +105,7 @@ Dative
 Hercules, who Apollo refused to give an oracle, stole a tripod from the temple at Delphi. 
 
 Hercules killed his own wife Megara. Juno drove threw Hercules into a fit of madness. 
-Becuase Juno threw Hercules into a fit of madness, Hercules killed his own wife Megara. ❌
+Becuase Juno threw Hercules into a fit of madness, Hercules killed his own wife Megara. 
 quod
 Hercules 
 Accusative

@@ -3,10 +3,8 @@ Place each verbal idea (clause, indirect statement, participial expression) on a
 indented to show its level of subordination. Italicize the verb of each unit by surrounding it with asterisks.
 
 Augeae regis stercus bobile uno die *purgavit*,
-> maiorem partem
->Iove adiutore;
->flumine admisso
-totum stercus *abluit*.
+> maiorem partem Iove adiutore;
+flumine admisso totum stercus *abluit*.
 
 taurum cum quo Pasiphae 
 > concubuit ex Creta insula Mycenis vivum *adduxit*.

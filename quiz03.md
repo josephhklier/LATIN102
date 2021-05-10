@@ -27,17 +27,17 @@ For the following verbs in various forms, list the four principal parts you woul
 find in a dictionary entry for this verb. If a part is missing (e.g., for a deponent verb, 
 there will be no perfect active form for a third prinicipal part), list a dash - for the missing part.
 
-transierat - eo, is, ire, ii
-afflabat - afflo, afflas, afflare, afflatum
-moriebatur - morior, moreris❌, mori, mortuus sum - morior, mori, mortuus, morium.
-exinteravit - ❌ exinteravit, exitero, exiterare, exiiteratus.
-effugiebat - effugio, effugis, effugere, effugitum
-adduxit - adduco, adducis, adducere, adductum
-iaculabantur - ❌ iaculor, iaculari, iaculatus, -.
-vescebantur - vescor, vesveris, vesci, -
-detraxit - detraho, detrahis, detraxi, detractum
-solitus erat - soleo, soles, solitusi❌, solitum - soleo, solere, -, solitus.
-attulit - attulo, attulis, -, -, 
+1. transierat - eo, is, ire, ii
+2. afflabat - afflo, afflas, afflare, afflatum
+3. moriebatur - morior, moreris❌, mori, mortuus sum - morior, mori, mortuus, morium.
+4. exinteravit - ❌ exinteravit, exitero, exiterare, exiiteratus.
+5. effugiebat - effugio, effugis, effugere, effugitum
+6. adduxit - adduco, adducis, adducere, adductum
+7. iaculabantur - ❌ iaculor, iaculari, iaculatus, -.
+8. vescebantur - vescor, vesveris, vesci, -
+9. detraxit - detraho, detrahis, detraxi, detractum
+10. solitus erat - soleo, soles, solitusi❌, solitum - soleo, solere, -, solitus.
+11. attulit - attulo, attulis, -, -, 
 
 
 Dictionary skills, 3: proper nouns and adjectives

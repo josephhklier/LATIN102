@@ -10,15 +10,15 @@ for a two-ending adjective, masculine/feminine nominative singular, neuter nomin
 for a three-ending adjective, masculine, feminine and neuter nominative singular
 Noun-adjective pairs (in various cases):
 
-1. uno die : uno : unus/una/unum   .   die - dius, dii, M❌  dies, diei
+1. uno die : uno : unus/una/unum   .   die - dius, dii, M  dies, diei
 2. totum stercus : totus/tota/totum   .   stercus - stercus, stercoris, M
-3. ceruum ferocem : ceruum - cerus, ceri,❌ F  cervus, cervi M .   ferox, ferocis M❌
-4. tantam vim : tantus/tanta/tantum.  .   vis, virium, M❌ vis, vis, f. 
+3. ceruum ferocem : ceruum - cerus, ceri, F  cervus, cervi M .   ferox, ferocis M
+4. tantam vim : tantus/tanta/tantum.  .   vis, virium, M vis, vis, f. 
 5. sagittas suas : sagitta, sagittae, F   .   suus/sua/suum 
 6. cornibus aureis : cornus, cornus, F.     aureus/aurea/aureum
-7. carne humana : carnis, carnis,❌ F. caro, carnis.     humanus/humana/humanum
-8. draconem immanem : draco, draconis, M   .   immanus/immane/immanis❌ immanis, immanes
-9. mala aurea : malum, malae❌, M malum, mali  .   aureus/aurea/aureum
+7. carne humana : carnis, carnis, F. caro, carnis.     humanus/humana/humanum
+8. draconem immanem : draco, draconis, M   .   immanus/immane/immanis immanis, immanes
+9. mala aurea : malum, malae, M malum, mali  .   aureus/aurea/aureum
 
 
 
@@ -29,14 +29,14 @@ there will be no perfect active form for a third prinicipal part), list a dash -
 
 1. transierat - eo, is, ire, ii
 2. afflabat - afflo, afflas, afflare, afflatum
-3. moriebatur - morior, moreris❌, mori, mortuus sum - morior, mori, mortuus, morium.
-4. exinteravit - ❌ exinteravit, exitero, exiterare, exiiteratus.
+3. moriebatur - morior, moreris, mori, mortuus sum - morior, mori, mortuus, morium.
+4. exinteravit -  exinteravit, exitero, exiterare, exiiteratus.
 5. effugiebat - effugio, effugis, effugere, effugitum
 6. adduxit - adduco, adducis, adducere, adductum
-7. iaculabantur - ❌ iaculor, iaculari, iaculatus, -.
+7. iaculabantur -  iaculor, iaculari, iaculatus, -.
 8. vescebantur - vescor, vesveris, vesci, -
 9. detraxit - detraho, detrahis, detraxi, detractum
-10. solitus erat - soleo, soles, solitusi❌, solitum - soleo, solere, -, solitus.
+10. solitus erat - soleo, soles, solitusi, solitum - soleo, solere, -, solitus.
 11. attulit - attulo, attulis, -, -, 
 
 

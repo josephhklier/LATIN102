@@ -17,10 +17,6 @@ Diomedem Thraciae regem et equos quattuor eius,
 cum Abdero famulo *interfecit*;
 equorum autem nomina Podargus Lampon Xanthus Dinus.
 
-8 taurum cum quo Pasiphae concubuit ex Creta insula Mycenis vivum adduxit.
-
-9 Diomedem Thraciae regem et equos quattuor eius, qui carne humana vescebantur, 
-cum Abdero famulo interfecit; equorum autem nomina Podargus Lampon Xanthus Dinus.
 
 B. Grammatical questions
 In the phrase, Iove adiutore, what case is Iove? What kind of construction is this phrase

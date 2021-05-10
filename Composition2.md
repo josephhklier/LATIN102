@@ -2,8 +2,12 @@
 
 The Death of Hercules
 
-Deianira cum, filia de Oeneus et conjunx de Hercules virginem Iole procreatus est❌**We need indirect statement with "vidit".** vidit, ea coepit machinat❌ ne conjux amittit❌.
-Ea misit famuli❌ procreat❌ Hercules vestis in sanguis de centarus Nessus, quem ea amat❌ philtrum conjectant❌.
-Hercules vestis psuit❌ et statim inflammat.
-Hercules famuli❌ jacit, quem Deianira misit Procreatur, in mare.
-Aio❌ Hercules inmortis, sed Deianira ipse❌ interfecit propter Herculem. 
+Cum Deianira, filiae Oeneus et uxoris Hercules, videret Iolen puellam pulchram adductam esse, coepit machinari ne ad privaretur conjuge.
+
+Misit famulum ad vestem dandum Herculi tinctum sanguine Nessi, quem putavit philtrum esse.
+
+Hercules vestem induit qui statim flammabat.
+
+Hercules famulum jecit in mare, quem Deianira misit ad vestem adducendum.
+
+Nonulli dicunt Herculem immortalem factum esse, sed Deianira se interfecit propter hoc.

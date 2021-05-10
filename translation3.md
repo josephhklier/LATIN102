@@ -14,7 +14,7 @@ ex Creta insula Mycenis vivum *adduxit*.
 
 Diomedem Thraciae regem et equos quattuor eius,
 >qui carne humana vescebantur,
-cum Abdero famulo *interfecit*;
+>cum Abdero famulo *interfecit*;
 equorum autem nomina Podargus Lampon Xanthus Dinus.
 
 

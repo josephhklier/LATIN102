@@ -1,55 +1,45 @@
-**Needs revisions**
-
 A. Grammatical analysis
 Place each verbal idea (clause, indirect statement, participial expression) on a separate line, 
 indented to show its level of subordination. Italicize the verb of each unit by surrounding it with asterisks.
 
-Augeae regis stercus bobile
-
->uno die *purgavit*, ❌ **This is part of the same main clause as the direct objects.**
-
+Augeae regis stercus bobile uno die *purgavit*,
 maiorem partem
-
 >Iove adiutore;
-
-flumine admisso
-
->totum stercus *abluit*.
+>flumine admisso
+totum stercus *abluit*.
 
 taurum
-
->cum quo Pasiphae concubuit ex Creta insula
-
-Mycenis vivum *adduxit*.
+>cum quo Pasiphae concubuit 
+ex Creta insula Mycenis vivum *adduxit*.
 
 Diomedem Thraciae regem et equos quattuor eius,
-
 >qui carne humana vescebantur,
-
 cum Abdero famulo *interfecit*;
+equorum autem nomina Podargus Lampon Xanthus Dinus.
 
->equorum autem nomina
+8 taurum cum quo Pasiphae concubuit ex Creta insula Mycenis vivum adduxit.
 
-Podargus Lampon Xanthus Dinus.
-
-8 taurum cum quo Pasiphae concubuit ex Creta insula Mycenis vivum adduxit. ❌ **More than one verbal unit here.**
-
-9 Diomedem Thraciae regem et equos quattuor eius, qui carne humana vescebantur,  
-cum Abdero famulo interfecit; equorum autem nomina Podargus Lampon Xanthus Dinus. ❌ **More than one verbal unit here.**
+9 Diomedem Thraciae regem et equos quattuor eius, qui carne humana vescebantur, 
+cum Abdero famulo interfecit; equorum autem nomina Podargus Lampon Xanthus Dinus.
 
 B. Grammatical questions
 In the phrase, Iove adiutore, what case is Iove? What kind of construction is this phrase
-  Ablative - Prepositional phrase ❌ **I don't see any preposition!**
+  Ablative - Prepositional phrase
+
 What case is stercus, and why is it in that case?
-  Nominative - main subject ❌ **Is the dung doing the action?**
+  Nominative - main subject
+
 Identify the form of the adjective maiorem (gender, case, number, degree).
-  Accusative, comparative, singular, masculine  ❌ **On form, *maiorem* could be masculine, but what word does it modify in this sentence?**
+  Accusative, comparative, singular, masculine
+
 Explain the construction of the verbal unit flumine admisso.
-  perfect passive participle, ablative
+  perfect passive participle, ablative absoulte
+
 What are the gender, number, case, and antecedent of qui?
-  Singular, Masculine, Nominative, Diomedem ❌ **Look at the verb: it's plural.  You're right that *qui* is nominative.**
+  Singular, Masculine, Nominative, Diomedem
+
 What Latin verb form has to be understood in the clause that runs from equorum to Dinus?
-  autem nomina ❌ **These are not verbs.**
+  autem nomina
 
 C. Literary commentary
 Choose two choices of syntax, word order, or diction that Hyginus makes in this passage that complement or 
@@ -59,4 +49,4 @@ One of the ways that Hyginus complements the meaning of the passage is with the 
   
 
 
-**Please add a translation of the passage.**
+

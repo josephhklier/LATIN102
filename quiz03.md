@@ -53,13 +53,21 @@ Eurystheo regi - Eurystheus, Eurysthei, M
 
 Compose a dictionary form for the proper adjectives in the following phrases:
  
-Leonem Nemeum - meus/mea/meum❌
-Hydram Lernaeam - ❌
-aprum Erymanthium - Erymanthius, Erymanthium, M
-aves Stymphalides - Stymphalidus, Stymphalidum, M
-Hippolyten Amazonam (NB: Hippolyten is a Greek name in a feminine accusative singular form, like Iolen in our earlier assignment.)
+Part 3a 
+1. Luna, Lunae, f. 
+2. Minerva, Minervae, f. 
+3. Phyrgia, Phyrgius, n. 
+4. Creta, Cretae, f. 
+5. Thracia, Thraciae, f. 
+6. Abderus, Abderi, m. 
+7. Eurystheus, Eurysthei, m.
 
-amazona, amazonam, F❌
+Part 3b. 
+1. Nemeus, Nemea, nemeum. 
+2. Learneus, Lernea, Lerneum. 
+3. Eurmanthius, Eurmanthia, Eurmanthium. 
+4. Stymphalis, Stymphalidis. 
+5. Amazonus, Amazona, Amazonum.
 
 
 Comparative and superlative forms

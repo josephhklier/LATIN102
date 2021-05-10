@@ -85,9 +85,9 @@ and the adjective magnus/a/um, “great, large,” with irregular comparative ma
 1. The Hydra killed passers by with a great blowing of his poisonous breath.
   afflatu magno
 2. The Hydra killed passers by with a greater blowing of his poisonous breath.
-  afflatu maium
+  afflatu maiore
 3. The Hydra killed passers by with the greatest blowing of his poisonous breath.
-  afflatu maximum
+  afflatu maximo
 4. The victims died in great torment.
   magno cruciatu
 5. The victims died in greater torment.

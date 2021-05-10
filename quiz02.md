@@ -39,7 +39,7 @@ third plural pluperfect subjunctive passive - polliciti essent
 
 
 The brothers were violent Centaurs. Eurytion came to the wedding with his brothers.
-Eurytion came to the wedding with his brothers, who were violent Centaurs. ❌ **You've flipped the sentences:  keep the first sentence as the independent clause.**
+Eurytion came to the wedding with his brothers, who were violent Centaurs. **You've flipped the sentences:  keep the first sentence as the independent clause.**
 qui
 Brothers
 Nominative - subject of the clause. 
@@ -47,7 +47,7 @@ Nominative - subject of the clause.
 The brothers, who Eurytion came to the wedding with, were violent centaurs. 
 
 Dexamenus was afraid of Eurytion. Deanira was promised in marriage to Eurytion.
-Dexamus was afraid of Eurytion, who was promised in marriage with Deanira. ❌
+Dexamus was afraid of Eurytion, who was promised in marriage with Deanira. 
 qui
 Eurytion
 Dative 
@@ -55,13 +55,13 @@ Dative
 Dexamus was afraid of Eurytion, to whom was promised in marriage with Deanira.
 
 Eurytion expected to marry Deianira. Eurytion’s brothers were centaurs.
-Eurytion, whose brothers were centaurs, was expected to marry Deianira. ❌
+Eurytion, whose brothers were centaurs, was expected to marry Deianira. 
 cuius
 Eurytion
 Genitive - association with Eurytion
 
 Nessus tried to rape Deianira. Hercules killed Nessus.
-Because Nessus tried to raoe Deianira, Hercules killed Nessus. ❌
+Because Nessus tried to raoe Deianira, Hercules killed Nessus. 
 quod
 Nessus
 Accusative
@@ -69,7 +69,7 @@ Accusative
 Nessus tried to rape Deianira, who Hercules killed.
 
 Nessus gave Deianira a vial of blood. Hercules was poisoned by the blood.
-Hercules was poisoned by the vial of blood, which was given to Deinira by Nessus. ❌
+Hercules was poisoned by the vial of blood, which was given to Deinira by Nessus. 
 quem
 vial of blood
 accusative - reciever of the action
@@ -83,7 +83,7 @@ Busiris
 Nominative - subject of clause
 
 Prometheus’ heart was devoured by an eagle. Hercules shot the eagle dead with his arrows.
-Prometheus heart was devoured by an eagle, which was shot shot dead by Hercules with his arrows.  ❌
+Prometheus heart was devoured by an eagle, which was shot shot dead by Hercules with his arrows.  
 quem
 eagle
 accusative - reciever of actoin

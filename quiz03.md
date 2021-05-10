@@ -56,7 +56,7 @@ Compose a dictionary form for the proper adjectives in the following phrases:
 Part 3a 
 1. Luna, Lunae, f. 
 2. Minerva, Minervae, f. 
-3. Phyrgia, Phyrgius, n. 
+3. Phyrgia, Phyrgiae, n. 
 4. Creta, Cretae, f. 
 5. Thracia, Thraciae, f. 
 6. Abderus, Abderi, m. 
@@ -85,21 +85,21 @@ and the adjective magnus/a/um, “great, large,” with irregular comparative ma
 1. The Hydra killed passers by with a great blowing of his poisonous breath.
   afflatu magno
 2. The Hydra killed passers by with a greater blowing of his poisonous breath.
-  afflatum maium
+  afflatu maium
 3. The Hydra killed passers by with the greatest blowing of his poisonous breath.
-  afflatum maximum
+  afflatu maximum
 4. The victims died in great torment.
-  cruciatum magnum
+  magno cruciatu
 5. The victims died in greater torment.
- cruciatum maium
+cruciatu maiore
 6. The victims died in the greatest torment.
- cruciatum maximum
+  cruciatu maximo
 7. Hercules cleaned a great part of the stables.
- partem magnum
+ partem magnam
 8. Hercules cleaned a greater part of the stables.
- apartem maium
+ partem maiorem 
 9. Hercules cleaned the greatest part of the stables.
- partem maximum
+ partem maximam
 
 ❓❓
 

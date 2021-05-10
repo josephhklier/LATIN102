@@ -67,7 +67,7 @@ B. Grammatical questions
 and how it functions in the relative clause. (I.e., why is cui in this case?)
 
 Flumen - Nominate, Neuter, Singular
-Cui - Dative : Describing the river as an indirect object❌ the name of the river as Evenus
+Cui - Dative : Describing the river as an indirect object the name of the river as Evenus
 
 2. Identify the form of transire. Explain why you placed it in the clause you chose.
 
@@ -81,9 +81,9 @@ Accusative, F, Singular, perfect, passive
 
 4. Identify the form of sagittis. Why does Hyginus use this case?
 
-Accusative, F, Plural - Arrows are the direct object❌ ablative with the arrows
+Accusative, F, Plural - Arrows are the direct object- ablative with the arrows
 5. Identify the form of moriens.
-present active participle  ❌ 
+present active participle   
 
 6. Identify felle. Why does Hyginus use this case?
 

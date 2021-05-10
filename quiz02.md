@@ -1,4 +1,4 @@
-**Needs revisions**
+**Full credit**
 
 Verb synopses
 Check one verb of the first or second conjugation *other than8 amo or habeo, and one verb of the third or third-io conjugation other than capio or duco. For each verb, complete the following synopsis, and translate indicative forms as complete sentences.
@@ -40,9 +40,9 @@ third plural pluperfect subjunctive passive - polliciti essent
 
 The brothers were violent Centaurs. Eurytion came to the wedding with his brothers.
 Eurytion came to the wedding with his brothers, who were violent Centaurs. **You've flipped the sentences:  keep the first sentence as the independent clause.**
-qui
+cum quo
 Brothers
-Nominative - subject of the clause. 
+ablative
 
 The brothers, who Eurytion came to the wedding with, were violent centaurs. 
 
